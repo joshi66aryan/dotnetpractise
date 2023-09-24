@@ -1,0 +1,37 @@
+
+.userlist__items{
+
+    display: flex;
+    flex:1;
+    flex-direction: column;
+    //column-gap: 20px;
+
+    align-items: flex-start;
+    justify-content: center;
+    padding:10px;
+
+    border-radius: 6px;
+
+
+
+    //max-width: 40px;
+    background-color: rgba(191, 191, 191, 0.3); 
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+
+    .name{
+        font-weight: bold;
+        padding-left: 0.5rem;
+        margin: 0;
+    }
+
+    .joined{
+        color:rgba(108, 122, 137);
+        padding-left: 0.5rem;
+        font-size: 14px;
+        margin: 0;
+    }
+}
+
+.userlist__items:hover{
+    background-color:rgba(115, 147, 179, 0.5);
+}

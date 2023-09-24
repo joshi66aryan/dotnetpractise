@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{603401AB-8694-4A55-9E1C-F730083007B3}|https">
+  <MonoDevelop.Ide.ItemProperties.RestfulWebAPi PreferredExecutionTarget="/Applications/developer tools/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestfulWebAPi/appsettings.json">
+    <Files>
+      <File FileName="RestfulWebAPi/Controllers/AuthController.cs" />
+      <File FileName="RestfulWebAPi/Models/AuthModel/Users.cs" />
+      <File FileName="RestfulWebAPi/Models/AuthModel/UserRegisterRequest.cs" />
+      <File FileName="RestfulWebAPi/Models/AuthModel/EmailDTO.cs" />
+      <File FileName="RestfulWebAPi/Models/AuthModel/ResetPassword.cs" />
+      <File FileName="RestfulWebAPi/WeatherForecast.cs" />
+      <File FileName="RestfulWebAPi/Program.cs" />
+      <File FileName="RestfulWebAPi/Services/EmailService/EmailService.cs" />
+      <File FileName="RestfulWebAPi/Services/EmailService/IEmailService.cs" />
+      <File FileName="RestfulWebAPi/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RestfulWebAPi" expanded="True">
+            <Node name="RestfulWebAPi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DatabaseConnection" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="AuthModel" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

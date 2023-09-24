@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{3BE23251-A765-4DB0-B6C3-2BE06529AA7B}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChatApp/Hubs/ChatHubs.cs">
+    <Files>
+      <File FileName="ChatApp/Controllers/authenticationController.cs" />
+      <File FileName="ChatApp/Hubs/ChatHubs.cs" Line="30" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChatApp" expanded="True">
+            <Node name="ChatApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Hubs" expanded="True">
+                <Node name="ChatHubs.cs" selected="True" />
+              </Node>
+              <Node name="Repositories" expanded="True">
+                <Node name="AuthRepositories" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.chatapp PreferredExecutionTarget="/Applications/developer tools/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ChatApp PreferredExecutionTarget="/Applications/developer tools/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
