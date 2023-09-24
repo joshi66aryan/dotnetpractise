@@ -11,6 +11,12 @@
 *.userosscache
 *.sln.docstates
 
+# Ignore Visual Studio Code (VSCode) directories
+.vscode/
+
+# Ignore macOS Finder's .DS_Store files
+.DS_Store
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
